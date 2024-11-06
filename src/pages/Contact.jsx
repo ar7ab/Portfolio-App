@@ -161,7 +161,7 @@ const Contact = () => {
                             name="name"
                             placeholder="Name*"
                             className="bg-transparent outline-none w-full border-dark-primary border 
-               p-3 focus:border-dark-secondary rounded-xl  transition-all duration-300 ease-linear"
+                                        p-3 focus:border-dark-secondary rounded-xl  transition-all duration-300 ease-linear"
                             required
                         />
                         <input
@@ -169,7 +169,7 @@ const Contact = () => {
                             name="email"
                             placeholder="Email*"
                             className="bg-transparent outline-none w-full border-dark-primary border 
-               p-3 focus:border-dark-secondary rounded-xl  transition-all duration-300 ease-linear"
+                                p-3 focus:border-dark-secondary rounded-xl  transition-all duration-300 ease-linear"
                             required
                         />
                         <input
@@ -177,14 +177,14 @@ const Contact = () => {
                             name="subject"
                             placeholder="Subject*"
                             className="bg-transparent outline-none w-full border-dark-primary border 
-               p-3 focus:border-dark-secondary rounded-xl  transition-all duration-300 ease-linear"
+                                p-3 focus:border-dark-secondary rounded-xl  transition-all duration-300 ease-linear"
                             required
                         />
                         <textarea
                             placeholder="Message*"
                             name="message"
                             className="bg-transparent outline-none w-full border-dark-primary border 
-               p-3 focus:border-dark-secondary rounded-xl  transition-all duration-300 ease-linear"
+                                        p-3 focus:border-dark-secondary rounded-xl  transition-all duration-300 ease-linear"
                             required
                             rows={4}
                         ></textarea>

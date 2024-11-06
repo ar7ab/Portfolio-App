@@ -24,7 +24,7 @@ const projects = [
         name: "Personal Portfolio - App",
         img: PortfolioImg,
         stackTech: "React js - Tailwind CSS",
-        link: "https://ar7ab.github.io/Personal-Portfolio/",
+        link: "https://ar7ab.github.io/Portfolio-App/",
     },
     {
         id: 3,
