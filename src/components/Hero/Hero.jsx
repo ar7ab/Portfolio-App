@@ -13,7 +13,7 @@ const Hero = () => {
 
     return (
         <div
-            className={`w-full flex flex-col-reverse md:flex-row relative top-20 md:top-32 gap-3 pb-8  ${darkMode
+            className={`w-full flex flex-col-reverse md:flex-row relative top-20 md:top-28 gap-3 pb-8  ${darkMode
                 ? "bg-dark-background text-dark-primary"
                 : "bg-background text-black"
                 }`}
