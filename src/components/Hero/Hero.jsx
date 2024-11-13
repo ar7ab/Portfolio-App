@@ -6,7 +6,7 @@ import { FaLinkedin, FaGithub, FaFacebook } from "react-icons/fa";
 import { BiLogoInstagramAlt } from "react-icons/bi";
 import { DarkModeContext } from "../../context/DarkModeContext";
 import { PiReadCvLogoFill } from "react-icons/pi";
-import CV from "../../assets/Ahmed_Arhab_CV.pdf";
+import CV from "../../assets/Ahmed Arhab.pdf";
 
 const Hero = () => {
     const { darkMode } = useContext(DarkModeContext);
