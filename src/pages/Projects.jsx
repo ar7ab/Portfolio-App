@@ -10,66 +10,74 @@ import MediVitalImg from "../assets/MediVital_Img.png";
 import MinicsImg from "../assets/MinicsImg.png"
 import MediPlusImg from "../assets/MediPlus.png"
 import DashboaedImg from "../assets/Dashboard.png"
+import E_ShopeImg from "../assets/E-shope.png"
 
 const projects = [
     {
         id: 1,
         name: "YouTube Clone - App",
         img: YT_ProjectImg,
-        stackTech: "React js - Tailwind CSS - RapidApi",
+        stackTech: "React js - Tailwind CSS - RapidApi -  React-icon - MUI",
         link: "https://ar7ab.github.io/YouTube-Clone/",
     },
     {
         id: 2,
         name: "Personal Portfolio - App",
         img: PortfolioImg,
-        stackTech: "React js - Tailwind CSS",
+        stackTech: "React js - Tailwind CSS -  React-icon",
         link: "https://ar7ab.github.io/Portfolio-App/",
     },
     {
         id: 3,
+        name: "E-Shope Website",
+        img: E_ShopeImg,
+        stackTech: "React js - Tailwind CSS - Redux - Redux ToolKit - React-icon",
+        link: "https://ar7ab.github.io/E-Shope/",
+    },
+    {
+        id: 4,
         name: "E – Commerce Website (MediVital) App",
         img: MediVitalImg,
         stackTech: "WordPress - PHP",
         link: "https://dev-medivital.pantheonsite.io/",
     },
     {
-        id: 4,
+        id: 5,
         name: "ToDo List - App",
         img: ToDo_ListImg,
         stackTech: "HTML - CSS - JavaScript",
         link: "https://ar7ab.github.io/ToDo-List-App/",
     },
     {
-        id: 5,
+        id: 6,
         name: "Calculator - App",
         img: CalculatorImg,
         stackTech: "HTML - CSS - JavaScript",
         link: "https://ar7ab.github.io/Calculator-App/",
     },
     {
-        id: 6,
+        id: 7,
         name: "Calculator - App",
         img: SearchImg,
         stackTech: "HTML - CSS - JavaScript",
         link: "https://ar7ab.github.io/search-image-engine/",
     },
     {
-        id: 7,
+        id: 8,
         name: "Minics Website",
         img: MinicsImg,
         stackTech: "HTML - CSS",
         link: "https://ar7ab.github.io/Minics-Website/",
     },
     {
-        id: 8,
+        id: 9,
         name: "MediPlus Website",
         img: MediPlusImg,
         stackTech: "HTML - CSS",
         link: "https://ar7ab.github.io/MediPlus-Website/",
     },
     {
-        id: 9,
+        id: 10,
         name: "Dashboard Website",
         img: DashboaedImg,
         stackTech: "HTML - CSS",
