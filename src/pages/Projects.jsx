@@ -10,7 +10,7 @@ import MediVitalImg from "../assets/MediVital_Img.png";
 import MinicsImg from "../assets/MinicsImg.png"
 import MediPlusImg from "../assets/MediPlus.png"
 import DashboaedImg from "../assets/Dashboard.png"
-import E_ShopeImg from "../assets/E-shope.png"
+import E_ShopeImg from "../assets/E-shope.webp"
 
 const projects = [
     {
