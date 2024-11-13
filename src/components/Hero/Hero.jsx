@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import banner from "../../assets/userImg.png";
+import userImg from "../../assets/userImg.webp";
 import MailOutlineIcon from "@mui/icons-material/MailOutline";
 import PhoneIcon from "@mui/icons-material/Phone";
 import { FaLinkedin, FaGithub, FaFacebook } from "react-icons/fa";
@@ -154,7 +154,7 @@ const Hero = () => {
                 <div className="user-banner w-fit h-48 md:h-96 relative bg-dark-secondary flex justify-center items-center rounded-full overflow-hidden animate-slide-x self-center">
                     <img
                         className="h-full w-auto"
-                        src={banner}
+                        src={userImg}
                         alt="Ahmed Arhab's profile"
                     />
                 </div>

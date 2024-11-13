@@ -1,15 +1,15 @@
 import { useContext } from "react";
 import Navbar from "../components/Navbar/Navbar";
 import { DarkModeContext } from "../context/DarkModeContext";
-import YT_ProjectImg from "../assets/YouTube_Project.png";
-import ToDo_ListImg from "../assets/Todo-List.png";
-import CalculatorImg from "../assets/calculatorImg.png"
-import SearchImg from "../assets/SearchImg.png"
-import PortfolioImg from "../assets/Portfolio_Img.png";
-import MediVitalImg from "../assets/MediVital_Img.png";
-import MinicsImg from "../assets/MinicsImg.png"
-import MediPlusImg from "../assets/MediPlus.png"
-import DashboaedImg from "../assets/Dashboard.png"
+import YT_ProjectImg from "../assets/YouTube_Project.webp";
+import ToDo_ListImg from "../assets/Todo-List.webp";
+import CalculatorImg from "../assets/calculatorImg.webp"
+import SearchImg from "../assets/SearchImg.webp"
+import PortfolioImg from "../assets/Portfolio_Img.webp"
+import MediVitalImg from "../assets/MediVital_Img.webp";
+import MinicsImg from "../assets/MinicsImg.webp"
+import MediPlusImg from "../assets/MediPlus.webp"
+import DashboaedImg from "../assets/Dashboard.webp"
 import E_ShopeImg from "../assets/E-shope.webp"
 
 const projects = [
