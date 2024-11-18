@@ -18,7 +18,7 @@ const projects = [
         name: "YouTube Clone - App",
         img: YT_ProjectImg,
         stackTech: "React js - Tailwind CSS - RapidApi -  React-icon - MUI",
-        link: "https://ar7ab.github.io/YouTube-Clone/",
+        link: "https://ar7ab.github.io/Youtube/",
     },
     {
         id: 2,
