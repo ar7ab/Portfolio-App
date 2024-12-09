@@ -67,7 +67,7 @@ const Hero = () => {
             aria-label="Call Ahmed Arhab"
           >
             <PhoneIcon style={{ fontSize: 20, marginRight: 5 }} />
-            <span>+201025980850</span>
+            <span>+971 50 480 1017</span>
           </a>
           <a
             className={`flex justify-center items-center py-1 px-2 border rounded-md w-fit focus:border-dark-secondary hover:border-dark-secondary transition-all duration-150 ease-linear  ${
