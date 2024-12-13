@@ -12,6 +12,7 @@ import MediPlusImg from "../assets/MediPlus.webp";
 import DashboaedImg from "../assets/Dashboard.webp";
 import E_ShopeImg from "../assets/E-shope.webp";
 import E_ShoppeeImg from "../assets/shoppee.webp";
+import NotebookImg from "../assets/NoteApp.webp";
 
 const projects = [
   {
@@ -44,48 +45,55 @@ const projects = [
   },
   {
     id: 5,
+    name: "Notebook App",
+    img: NotebookImg,
+    stackTech: "React js - Tailwind CSS - React-icon",
+    link: "https://ar7ab.github.io/Note-App/",
+  },
+  {
+    id: 6,
     name: "E – Commerce Website (MediVital) App",
     img: MediVitalImg,
     stackTech: "WordPress - PHP",
     link: "https://dev-medivital.pantheonsite.io/",
   },
   {
-    id: 6,
+    id: 7,
     name: "ToDo List - App",
     img: ToDo_ListImg,
     stackTech: "HTML - CSS - JavaScript",
     link: "https://ar7ab.github.io/ToDo-List-App/",
   },
   {
-    id: 7,
+    id: 8,
     name: "Calculator - App",
     img: CalculatorImg,
     stackTech: "HTML - CSS - JavaScript",
     link: "https://ar7ab.github.io/Calculator-App/",
   },
   {
-    id: 8,
+    id: 9,
     name: "Calculator - App",
     img: SearchImg,
     stackTech: "HTML - CSS - JavaScript",
     link: "https://ar7ab.github.io/search-image-engine/",
   },
   {
-    id: 9,
+    id: 10,
     name: "Minics Website",
     img: MinicsImg,
     stackTech: "HTML - CSS",
     link: "https://ar7ab.github.io/Minics-Website/",
   },
   {
-    id: 10,
+    id: 11,
     name: "MediPlus Website",
     img: MediPlusImg,
     stackTech: "HTML - CSS",
     link: "https://ar7ab.github.io/MediPlus-Website/",
   },
   {
-    id: 11,
+    id: 12,
     name: "Dashboard Website",
     img: DashboaedImg,
     stackTech: "HTML - CSS",
